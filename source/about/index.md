@@ -7,8 +7,8 @@ toc: false
 <div align="center">
 	<img src="source/images/IMG_3077.JPG" width="120" height="120" style="border-radius:50%;" alt="avatar" />
 	<h2>Sun</h2>
-	<p>一只既敲代码又写小说的橘猫</p>
-	<p>也是擅长下饭的糕手</p>
+	<p>一个努力考研的苦逼大学生</p>
+	<p>~不想学习~</p>
 </div>
 
 ## 技能
