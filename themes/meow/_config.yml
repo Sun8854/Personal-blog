@@ -118,7 +118,7 @@ sidebar:
     status: # Status next to the avatar
       emoji: 🐱 # false or emoji
       desc: 假装元气满满 # Describe the status
-    link: /about # Url for image clicking
+    link: /about/index.md # Url for image clicking
     desc: 这个家伙很懒，什么也不想说# Describe yourself or say something
     statistic: true # Whether to show the total number of articles, categories and tags
     social: # Social profiles
