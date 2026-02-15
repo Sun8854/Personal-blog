@@ -55,7 +55,7 @@ menu:
   #   archives: /archives || uc-archive
   #   categories: /categories || uc-category
   #   tags: /tags || uc-tag
-  # about: /about || uc-about
+   about: /about || uc-about
 
 # Search Function
 search:
@@ -117,9 +117,9 @@ sidebar:
     type: author # Which type of avatar to show, site or author
     status: # Status next to the avatar
       emoji: 🐱 # false or emoji
-      desc: 假装元气满满# Describe the status
-    link: # Url for image clicking
-    desc: # Describe yourself or say something
+      desc: 假装元气满满 # Describe the status
+    link: /about # Url for image clicking
+    desc: 这个家伙很懒，什么也不想说# Describe yourself or say something
     statistic: true # Whether to show the total number of articles, categories and tags
     social: # Social profiles
       enable: false # Whether to show social module
