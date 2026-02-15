@@ -5,7 +5,7 @@ toc: false
 ---
 
 <div style="text-align:center;">
-	<img src="/images/IMG_3077.JPG" width="120" height="120" style="border-radius:50%;" alt="avatar" />
+	<img src="/Personal-blog/images/IMG_3077.JPG" width="120" height="120" style="border-radius:50%;" alt="avatar" />
 	<h2>Sun</h2>
 	<p style="text-align:center;">一个努力考研的苦逼大学生</p>
 	<p style="text-align:center;"><del>不想学习</del></p>
