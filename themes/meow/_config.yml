@@ -37,7 +37,7 @@ global:
   selectable: true # Whether users can select text
   # Change page title when page onblur, false or onblur title text
   onblur_title: "Please Come Back～✧(´▽`ʃ♡ƪ)"
-  mouse_click_style: false # Whether to display colorful heart when clicking
+  mouse_click_style: true # Whether to display colorful heart when clicking
 
 # Font Customization
 font:
