@@ -7,25 +7,25 @@ toc: false
 <div style="text-align:center;">
 	<img src="/images/IMG_3077.JPG" width="120" height="120" style="border-radius:50%;" alt="avatar" />
 	<h2>Sun</h2>
-	<p>一个努力考研的苦逼大学生</p>
-	<p><del>不想学习</del></p>
+	<p style="text-align:center;">一个努力考研的苦逼大学生</p>
+	<p style="text-align:center;"><del>不想学习</del></p>
 </div>
 
 ## 技能
 
-- 🧑‍💻 编程（Java / Python / 各种前端语言 / ...）
-- 🖊️ 写作（长篇原创小说 / 短篇同人）
-- 🎨 画画（零基础硬学的小白水平）
-- 🐈 猫猫（养了一只真·橘猫）
+- 🧑‍💻 精通Solidworks、Obsidian、Word、Excel、PowerPoint、Lightroom、剪映（嗯，应该吧~😜）
+- 🖊️ 用python写一些自动化脚本
 
 ## 爱好
 
-- 🎮 游戏
-	- 主玩 Steam、模拟经营、规划建造、悬疑恐怖、自动化工厂、推理类游戏重度爱好者
-	- 大爱：Left 4 Dead 2 / Portal / Pokemon / Prison Architect / Beholder / Raft / Apex Legends / 变仙牌 / Shapez
-	- 对传统狼人杀挺感兴趣但超怕社恐，更想当法官 (_:(3」∠)_)
+- 🏃 跑步
+	- 坚持跑步近两年，总里程1991.23公里，平均配速5'48"/km
+    - 跑过三次半马，最好成绩为1:51:35
+    - 大众马拉松二级运动员
 
-- 🎵 音乐
-	- 什么类型都听，粤语、国语、欧美歌偏多
-	- 偏爱歌手：张学友 / Britney Spears / Imagine Dragons / Bruno Mars
-	- 学弹吉他 ing，但过程就像人类驯服野生手指（其实最想学的是小提琴）
+- 🎵 摄影
+	- 周末有时会去外面拍照
+    - 与其说是摄影，其实都是瞎拍（烂片王一枚😂）
+
+## 讨厌的东西
+- 📕 语文课
