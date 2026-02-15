@@ -179,7 +179,7 @@ post:
     enable: false # Whether to show estimated reading time
     cn: 350 # Reading speed of Chinese
     en: 200 # Reading speed of English
-  view: false # Whether to display post view data
+  view: true # Whether to display post view data
   font_size: 17px # Font size of posts with unit
   font_size_small: 15px # Font size of posts with unit on small screen
   indent: false # Whether to indent the first line of paragraph in post by 2em
