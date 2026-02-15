@@ -85,14 +85,15 @@ banner:
   # Banner title
   title:
     enable: true # Whether to show title
-    text: 「 MEOW 」 # Title text
+    text: "Sun's World" # Title text
   # Banner subtitle at homepage
   subtitle:
-    enable: false # Whether to show subtitle
+    enable: true # Whether to show subtitle
     # Subtitle text (Data type: Array)
     text:
-      # - "A cute and responsive theme for Hexo"
-    effect: false # Typewriter effect, true or false(only show the first text).
+       - "Welcome to Sun's World! 🐱"
+       - "考研笔记分享📚"
+    effect: true # Typewriter effect, true or false(only show the first text).
     type_speed: 100 # Typing speed (ms)
     back_speed: 150 # Backing speed (ms)
     start_delay: 500 # Start delay (ms)
