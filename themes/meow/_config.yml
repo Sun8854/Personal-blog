@@ -311,7 +311,7 @@ fiction:
 
 # Comment Module
 comment:
-  enable: false # Whether to enable comment module
+  enable: true # Whether to enable comment module
   display: true # Whether to show comment module at posts automatically
   type: waline # Comment system, type: waline
   lazyload: true # Whether to load comment system when comment module enters the browser's viewport
