@@ -4,11 +4,11 @@ date: 2026-02-15 12:00:00
 toc: false
 ---
 
-<div align="center">
-	<img src="source/images/IMG_3077.JPG" width="120" height="120" style="border-radius:50%;" alt="avatar" />
+<div style="text-align:center;">
+	<img src="/images/IMG_3077.JPG" width="120" height="120" style="border-radius:50%;" alt="avatar" />
 	<h2>Sun</h2>
 	<p>一个努力考研的苦逼大学生</p>
-	<p>~~不想学习~~</p>
+	<p><del>不想学习</del></p>
 </div>
 
 ## 技能
