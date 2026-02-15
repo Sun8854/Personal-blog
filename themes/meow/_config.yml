@@ -233,7 +233,7 @@ markdown:
 
 # Page View Counting
 page_view:
-  enable: false # Whether to show page view statistic
+  enable: true # Whether to show page view statistic
   url: https://events.vercount.one/js # Counter API url
   site_pv: true # Site's page view
   site_uv: true # Site unique visitor
