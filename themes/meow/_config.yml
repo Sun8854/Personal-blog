@@ -317,7 +317,7 @@ comment:
   lazyload: true # Whether to load comment system when comment module enters the browser's viewport
   # Waline Config, https://waline.js.org/
   waline:
-    server_url: # Waline server URL, see more at https://waline.js.org/guide/deploy/
+    server_url: waline-ashy-delta.vercel.app # Waline server URL, see more at https://waline.js.org/guide/deploy/
     lang: zh-CN # Language, e.g. zh-CN, en-US. https://waline.js.org/guide/features/i18n.html
     emoji: # https://waline.js.org/guide/features/emoji.html
     reaction: # https://waline.js.org/guide/features/reaction.html
