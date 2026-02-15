@@ -117,7 +117,7 @@ sidebar:
     type: author # Which type of avatar to show, site or author
     status: # Status next to the avatar
       emoji: 🐱 # false or emoji
-      desc: # Describe the status
+      desc: 假装元气满满# Describe the status
     link: # Url for image clicking
     desc: # Describe yourself or say something
     statistic: true # Whether to show the total number of articles, categories and tags
